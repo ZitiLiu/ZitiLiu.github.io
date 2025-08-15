@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-👋 Hi, I'm **Ziti Liu** — a Ph.D. candidate in **Computer Science and Technology** at the [School of Advanced Interdisciplinary Sciences](https://sais.ucas.ac.cn/index.php/zh/), [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), co-advised by the Institute of Automation and the Institute of Mechanics. My research focuses on **AI for Science**, especially **Physics-Informed Neural Networks (PINNs)** and scientific machine learning for PDE solving.
+👋 Hi, I'm **Ziti Liu** — a direct-track Ph.D. student (combined Master-Ph.D. program, currently in my 4th year) in **Computer Science and Technology** at the [School of Advanced Interdisciplinary Sciences](https://sais.ucas.ac.cn/index.php/zh/), [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), co-advised by the Institute of Automation and the Institute of Mechanics. My research focuses on **AI for Science**, including both traditional **Physics-Informed Neural Networks (PINNs)** and the application of **Large Language Models (LLMs)** in neural network architecture design for scientific problems, especially for PDE solving.
 
 ### 🎓  **Education**
 
-- **Ph.D.** in Computer Science and Technology, UCAS (2022.9 – 2027.6)Research direction: AI for Science 
+- **Ph.D.** in Computer Science and Technology, UCAS (2022.9 – 2027.6)Research direction: AI for Science
 - **B.Eng.** in Aircraft Design and Engineering, Huazhong University of Science and Technology (2018.9 – 2022.6), Outstanding Graduate
 
 ### 🛠 **Skills & Interests**
@@ -25,8 +24,8 @@ redirect_from:
 
 ### 📚 **Publications**
 
-- *AsPINN: Adaptive Symmetry-Recomposition Physics-Informed Neural Networks*, CMAME, 2024 (JCR Q1 TOP)
-- *Robust Fault-Tolerant Flushing Air Data Sensing Algorithm via Incorporating Physical Knowledge*, IEEE T-AES, 2024 (JCR Q1 TOP)
+- *[AsPINN: Adaptive Symmetry-Recomposition Physics-Informed Neural Networks](https://doi.org/10.1016/j.cma.2024.117405)*, CMAME, 2024 (JCR Q1 TOP)
+- *[Robust Fault-Tolerant Flushing Air Data Sensing Algorithm via Incorporating Physical Knowledge](https://doi.org/10.1109/TAES.2024.3504500)*, IEEE T-AES, 2024 (JCR Q1 TOP)
 - *Current Status and Prospects of Gas Turbine Technology Application*, JPCS, 2021 (co-first author)
 
 ### 💼 **Experience**
