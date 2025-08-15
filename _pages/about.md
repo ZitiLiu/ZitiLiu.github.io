@@ -11,8 +11,8 @@ redirect_from:
 
 ### 🎓  **Education**
 
-- **Ph.D.** in Computer Science and Technology, UCAS (2022.9 – 2027.6)Research direction: AI for Science
-- **B.Eng.** in Aircraft Design and Engineering, Huazhong University of Science and Technology (2018.9 – 2022.6), Outstanding Graduate
+- (2022.9 – 2027.6) **Ph.D.** in Computer Science and Technology, University of Chinese Academy of Sciences  Research direction: AI for Science
+- (2018.9 – 2022.6) **B.Eng.** in Aircraft Design and Engineering, Huazhong University of Science and Technology , Outstanding Graduate
 
 ### 🛠 **Skills & Interests**
 
