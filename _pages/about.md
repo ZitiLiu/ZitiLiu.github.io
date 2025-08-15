@@ -12,15 +12,14 @@ redirect_from:
 
 ### 🎓  **Education**
 
-- **Ph.D.** in Computer Science and Technology, UCAS (2022.9 – 2027.6)Research direction: AI for Science | GPA: 3.4/4
-- **B.Eng.** in Aircraft Design and Engineering, Huazhong University of Science and Technology (2018.9 – 2022.6)
-  GPA: 3.91/4, Outstanding Graduate
+- **Ph.D.** in Computer Science and Technology, UCAS (2022.9 – 2027.6)Research direction: AI for Science 
+- **B.Eng.** in Aircraft Design and Engineering, Huazhong University of Science and Technology (2018.9 – 2022.6), Outstanding Graduate
 
 ### 🛠 **Skills & Interests**
 
 - **Programming:** Python, C++, MATLAB
 - **Machine Learning:** PyTorch, PINNs, AI for PDEs, scientific computing
-- **Languages:** English (IELTS 7.0)
+- **Languages:** English (IELTS 7.0), Mandarin (Native)
 - **Others:** LaTeX, numerical analysis, computational mechanics
 - **Hobbies:** Fitness, swimming, basketball, piano, photography
 
