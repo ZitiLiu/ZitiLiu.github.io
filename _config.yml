@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Ziti Liu / HomePage"
 title_separator          : "-"
 name                     : &name "ZitiLiu"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Ziti Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Wuhan, China / Beijing, China"
+  employer         : "University of Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Liuziti22@mails.ucas.edu.cn" 
 
   # Academic websites
   academia         : # URL
