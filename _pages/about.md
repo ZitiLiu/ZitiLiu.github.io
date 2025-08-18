@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👋 Hi, I'm **Ziti Liu** — a direct-track Ph.D. student (combined Master-Ph.D. program, currently in my 4th year) in **Computer Science and Technology** at the [School of Advanced Interdisciplinary Sciences](https://sais.ucas.ac.cn/index.php/zh/), [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), co-advised by the Institute of Automation and the Institute of Mechanics. My research focuses on **AI for Science**, including both traditional **Physics-Informed Neural Networks (PINNs)** and the application of **Large Language Models (LLMs)** in neural network architecture design for scientific problems, especially for PDE solving.
+👋 Hi, I'm **Ziti Liu** — a Ph.D. student (combined Master-Ph.D. program, currently in my 4th year) in **Computer Science and Technology** at the [School of Advanced Interdisciplinary Sciences](https://sais.ucas.ac.cn/index.php/zh/), [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), co-advised by the Institute of Automation, the Institute of Mechanics and TsingHua University. My research focuses on **AI for Science**, including both traditional **Physics-Informed Neural Networks (PINNs)** and the application of **Large Language Models (LLMs)** in neural network architecture design for scientific problems, especially for PDE solving.
 
 ### 🎓  **Education**
 
-- (2022.9 – 2027.6) **Ph.D.** in Computer Science and Technology, University of Chinese Academy of Sciences  Research direction: AI for Science
+- (2022.9 – 2027.6) **Ph.D.** in Computer Science and Technology, University of Chinese Academy of Sciences, Research direction: AI for Science
 - (2018.9 – 2022.6) **B.Eng.** in Aircraft Design and Engineering, Huazhong University of Science and Technology , Outstanding Graduate
 
 ### 🛠 **Skills & Interests**
@@ -42,4 +42,4 @@ redirect_from:
 
 ---
 
-*"Science meets AI — towards interpretable, accurate, and efficient scientific computing."*
+<!-- *"Science meets AI — towards interpretable, accurate, and efficient scientific computing."* -->
