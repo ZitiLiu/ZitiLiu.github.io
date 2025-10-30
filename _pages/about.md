@@ -24,21 +24,22 @@ redirect_from:
 
 ### 🧑‍💻 **Projects**
 
-- **Generative Physics Engine Scenario Agent** (Ongoing)  
-  - **Project:** Integrates generative language models to address accuracy issues in physical data inversion with traditional large models.  
+- **Generative Physics Engine Scenario Agent** (Ongoing)
+
+  - **Project:** Integrates generative language models to address accuracy issues in physical data inversion with traditional large models.
   - **Work:** Developed a physics-agent framework based on LLM-SR, significantly reducing the time required by traditional symbolic regression methods. Embedded a reasoning evaluator to enhance LLM's answer filtering and correct reasoning abilities, improving inference accuracy and stability in physical scenarios.
+- **Structured Physics-Informed Neural Networks via Knowledge Distillation**
 
-- **Structured Physics-Informed Neural Networks via Knowledge Distillation**  
-  - **Project:** Utilized knowledge distillation algorithms to embed physical features into neural network structures, addressing interpretability and applicability challenges.  
+  - **Project:** Utilized knowledge distillation algorithms to embed physical features into neural network structures, addressing interpretability and applicability challenges.
   - **Work & Results:** Built a PyTorch-based experimental platform, overcoming manual model construction and strong prior dependency. Developed the gray-box model ψ-NN with higher accuracy, stability, and interpretability (algorithm performance improved by ~90%), reducing computational resource consumption to 7% of the original, suitable for low-power sensor group algorithms.
+- **Adaptive Symmetry-Recomposition Physics-Informed Neural Networks**
 
-- **Adaptive Symmetry-Recomposition Physics-Informed Neural Networks**  
-  - **Project:** Leveraged Lie symmetry properties of PDEs to enhance neural network robustness and accuracy under sparse sampling.  
+  - **Project:** Leveraged Lie symmetry properties of PDEs to enhance neural network robustness and accuracy under sparse sampling.
   - **Work & Results:** Established a PyTorch-based platform, demonstrating high efficiency and accuracy in handling symmetric PDEs and ill-posed sampling. Enhanced PINNs for sparse sensor arrays (sampling density reduced by 50%) and high-precision computation on low-power devices (accuracy improved by 90%).
 
 ### 📚 **Publications**
 
-- *[Automatic Network Structure Discovery of Physics Informed Neural Networks via Knowledge Distillation](https://github.com/ZitiLiu/Psi-NN)*, Nature communications, 2024 (JCR Q1 TOP, IF 15.7)
+- *[Automatic Network Structure Discovery of Physics Informed Neural Networks via Knowledge Distillation](https://doi.org/10.1038/s41467-025-64624-3)*, Nature communications, 2025 (JCR Q1 TOP, IF 15.7)
 - *[AsPINN: Adaptive Symmetry-Recomposition Physics-Informed Neural Networks](https://doi.org/10.1016/j.cma.2024.117405)*, Computer Methods in Applied Mechanics and Engineering, 2024 (JCR Q1 TOP, IF 7.5)
 - *[Robust Fault-Tolerant Flushing Air Data Sensing Algorithm via Incorporating Physical Knowledge](https://doi.org/10.1109/TAES.2024.3504500)*, IEEE T-AES, 2024 (JCR Q1 TOP, IF 5.7)
 - *Current Status and Prospects of Gas Turbine Technology Application*, JPCS, 2021 (co-first author, EI)
